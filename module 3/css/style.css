@@ -76,3 +76,6 @@ button {
     align-content: center;
     margin-top: -50px;
  }
+a::hover {
+    color: #1cb99a;
+}
